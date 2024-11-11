@@ -1,3 +1,7 @@
 header{
     text-align: center;
 }
+.contenedor{
+    max-width: 800px;
+    margin: auto;
+}
