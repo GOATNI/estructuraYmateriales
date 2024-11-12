@@ -5,3 +5,26 @@ header{
     max-width: 1200px;
     margin: auto;
 }
+.video{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h4+p {
+    margin-left: 10%;
+}
+.vl {
+    border-left: 6px solid rgb(0, 0, 0);
+    height: 170px;
+}
+.p {
+    text-align: center;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
